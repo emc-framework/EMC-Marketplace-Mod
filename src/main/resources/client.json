@@ -1,0 +1,11 @@
+{
+
+    "name": "EMC-Marketplace",
+    "website": "https://gitlab.com/EMC-Framework/EMC-Marketplace-Mod",
+    "author": "Deftware",
+    "minversion": 12.5,
+    "version": 7,
+    "main":"emc.marketplace.main.Main",
+    "updateLinkOverride": false
+
+}

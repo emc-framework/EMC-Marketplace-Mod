@@ -1,2 +1,13 @@
-# EMC-Marketplace-Mod
-The EMC marketplace client plugin
+The EMC-Marketplace plugin
+===================
+
+This is the EMC plugin for the [EMC framework](https://gitlab.com/EMC-Framework/EMC) marketplace.
+
+Demo
+-------------------
+![Installing a mod](https://raw.githubusercontent.com/Moudoux/EMC-Marketplace-Mod/master/res/demo.gif)
+
+License
+-------------------
+
+The EMC-Marketplace plugin is licensed under GPL-3.0
